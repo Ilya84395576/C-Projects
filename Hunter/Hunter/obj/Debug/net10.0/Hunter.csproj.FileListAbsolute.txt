@@ -1,0 +1,15 @@
+C:\Users\Ilya\Desktop\C#\Hunter\Hunter\bin\Debug\net10.0\Hunter.exe
+C:\Users\Ilya\Desktop\C#\Hunter\Hunter\bin\Debug\net10.0\Hunter.deps.json
+C:\Users\Ilya\Desktop\C#\Hunter\Hunter\bin\Debug\net10.0\Hunter.runtimeconfig.json
+C:\Users\Ilya\Desktop\C#\Hunter\Hunter\bin\Debug\net10.0\Hunter.dll
+C:\Users\Ilya\Desktop\C#\Hunter\Hunter\bin\Debug\net10.0\Hunter.pdb
+C:\Users\Ilya\Desktop\C#\Hunter\Hunter\obj\Debug\net10.0\Hunter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ilya\Desktop\C#\Hunter\Hunter\obj\Debug\net10.0\Hunter.AssemblyInfoInputs.cache
+C:\Users\Ilya\Desktop\C#\Hunter\Hunter\obj\Debug\net10.0\Hunter.AssemblyInfo.cs
+C:\Users\Ilya\Desktop\C#\Hunter\Hunter\obj\Debug\net10.0\Hunter.csproj.CoreCompileInputs.cache
+C:\Users\Ilya\Desktop\C#\Hunter\Hunter\obj\Debug\net10.0\Hunter.dll
+C:\Users\Ilya\Desktop\C#\Hunter\Hunter\obj\Debug\net10.0\refint\Hunter.dll
+C:\Users\Ilya\Desktop\C#\Hunter\Hunter\obj\Debug\net10.0\Hunter.pdb
+C:\Users\Ilya\Desktop\C#\Hunter\Hunter\obj\Debug\net10.0\Hunter.genruntimeconfig.cache
+C:\Users\Ilya\Desktop\C#\Hunter\Hunter\obj\Debug\net10.0\ref\Hunter.dll
+C:\Users\Ilya\Desktop\C#\Hunter\Hunter\obj\Debug\net10.0\Hunter.csproj.Up2Date
