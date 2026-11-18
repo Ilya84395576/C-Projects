@@ -1,0 +1,16 @@
+C:\Users\Ilya\Desktop\C#\Univercity\C#\Module1\Module1\Module1\bin\Debug\net10.0\Module1.exe
+C:\Users\Ilya\Desktop\C#\Univercity\C#\Module1\Module1\Module1\bin\Debug\net10.0\Module1.deps.json
+C:\Users\Ilya\Desktop\C#\Univercity\C#\Module1\Module1\Module1\bin\Debug\net10.0\Module1.runtimeconfig.json
+C:\Users\Ilya\Desktop\C#\Univercity\C#\Module1\Module1\Module1\bin\Debug\net10.0\Module1.dll
+C:\Users\Ilya\Desktop\C#\Univercity\C#\Module1\Module1\Module1\bin\Debug\net10.0\Module1.pdb
+C:\Users\Ilya\Desktop\C#\Univercity\C#\Module1\Module1\Module1\obj\Debug\net10.0\Module1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ilya\Desktop\C#\Univercity\C#\Module1\Module1\Module1\obj\Debug\net10.0\Module1.AssemblyInfoInputs.cache
+C:\Users\Ilya\Desktop\C#\Univercity\C#\Module1\Module1\Module1\obj\Debug\net10.0\Module1.AssemblyInfo.cs
+C:\Users\Ilya\Desktop\C#\Univercity\C#\Module1\Module1\Module1\obj\Debug\net10.0\Module1.csproj.CoreCompileInputs.cache
+C:\Users\Ilya\Desktop\C#\Univercity\C#\Module1\Module1\Module1\obj\Debug\net10.0\Module1.sourcelink.json
+C:\Users\Ilya\Desktop\C#\Univercity\C#\Module1\Module1\Module1\obj\Debug\net10.0\Module1.dll
+C:\Users\Ilya\Desktop\C#\Univercity\C#\Module1\Module1\Module1\obj\Debug\net10.0\refint\Module1.dll
+C:\Users\Ilya\Desktop\C#\Univercity\C#\Module1\Module1\Module1\obj\Debug\net10.0\Module1.pdb
+C:\Users\Ilya\Desktop\C#\Univercity\C#\Module1\Module1\Module1\obj\Debug\net10.0\Module1.genruntimeconfig.cache
+C:\Users\Ilya\Desktop\C#\Univercity\C#\Module1\Module1\Module1\obj\Debug\net10.0\ref\Module1.dll
+C:\Users\Ilya\Desktop\C#\Univercity\C#\Module1\Module1\Module1\obj\Debug\net10.0\Module1.csproj.Up2Date

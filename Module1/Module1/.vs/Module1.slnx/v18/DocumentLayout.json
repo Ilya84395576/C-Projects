@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ilya\\Desktop\\C#\\Univercity\\C#\\Module1\\Module1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9A2D0B95-1DE1-4D92-9298-DC2A3FD19503}|Module1\\Module1.csproj|c:\\users\\ilya\\desktop\\c#\\univercity\\c#\\module1\\module1\\module1\\deliveryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A2D0B95-1DE1-4D92-9298-DC2A3FD19503}|Module1\\Module1.csproj|solutionrelative:module1\\deliveryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A2D0B95-1DE1-4D92-9298-DC2A3FD19503}|Module1\\Module1.csproj|c:\\users\\ilya\\desktop\\c#\\univercity\\c#\\module1\\module1\\module1\\ipayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A2D0B95-1DE1-4D92-9298-DC2A3FD19503}|Module1\\Module1.csproj|solutionrelative:module1\\ipayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A2D0B95-1DE1-4D92-9298-DC2A3FD19503}|Module1\\Module1.csproj|c:\\users\\ilya\\desktop\\c#\\univercity\\c#\\module1\\module1\\module1\\transport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A2D0B95-1DE1-4D92-9298-DC2A3FD19503}|Module1\\Module1.csproj|solutionrelative:module1\\transport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A2D0B95-1DE1-4D92-9298-DC2A3FD19503}|Module1\\Module1.csproj|c:\\users\\ilya\\desktop\\c#\\univercity\\c#\\module1\\module1\\module1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A2D0B95-1DE1-4D92-9298-DC2A3FD19503}|Module1\\Module1.csproj|solutionrelative:module1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DeliveryService.cs",
+              "DocumentMoniker": "C:\\Users\\Ilya\\Desktop\\C#\\Univercity\\C#\\Module1\\Module1\\Module1\\DeliveryService.cs",
+              "RelativeDocumentMoniker": "Module1\\DeliveryService.cs",
+              "ToolTip": "C:\\Users\\Ilya\\Desktop\\C#\\Univercity\\C#\\Module1\\Module1\\Module1\\DeliveryService.cs",
+              "RelativeToolTip": "Module1\\DeliveryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD8AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-18T20:03:19.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IPayment.cs",
+              "DocumentMoniker": "C:\\Users\\Ilya\\Desktop\\C#\\Univercity\\C#\\Module1\\Module1\\Module1\\IPayment.cs",
+              "RelativeDocumentMoniker": "Module1\\IPayment.cs",
+              "ToolTip": "C:\\Users\\Ilya\\Desktop\\C#\\Univercity\\C#\\Module1\\Module1\\Module1\\IPayment.cs",
+              "RelativeToolTip": "Module1\\IPayment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-18T19:58:47.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Transport.cs",
+              "DocumentMoniker": "C:\\Users\\Ilya\\Desktop\\C#\\Univercity\\C#\\Module1\\Module1\\Module1\\Transport.cs",
+              "RelativeDocumentMoniker": "Module1\\Transport.cs",
+              "ToolTip": "C:\\Users\\Ilya\\Desktop\\C#\\Univercity\\C#\\Module1\\Module1\\Module1\\Transport.cs",
+              "RelativeToolTip": "Module1\\Transport.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA0wAEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-18T18:00:33.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ilya\\Desktop\\C#\\Univercity\\C#\\Module1\\Module1\\Module1\\Program.cs",
+              "RelativeDocumentMoniker": "Module1\\Program.cs",
+              "ToolTip": "C:\\Users\\Ilya\\Desktop\\C#\\Univercity\\C#\\Module1\\Module1\\Module1\\Program.cs",
+              "RelativeToolTip": "Module1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-18T17:58:57.723Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
